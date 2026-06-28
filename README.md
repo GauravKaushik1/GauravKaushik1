@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Gaurav Kaushik 👋
 
 <!--
 **GauravKaushik1/GauravKaushik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a passionate Software Engineer and Big Data enthusiast who loves building things from scratch and understanding how code compiles, executes, and scales under the hood. My tech journey transitioned from a background in Commerce (B.Com) to mastering computer systems with an MCA from M.D. University, Rohtak. I specialize in writing clean, framework-independent backend code while using modern AI tools to accelerate my frontend UI workflows.
+
+🚀 What Drives Me
+* **Systems & Logic:** Managing raw pointers, custom memory, and database normalization (3NF) from first principles.
+* **Vanilla Full-Stack:** Engineering secure web backends with Node.js and Express without relying on heavy boilerplate frameworks.
+* **Big Data Pipelines:** Wrangling multi-domain datasets using Hadoop MapReduce workloads and Hive query architectures.
+* **AI-Assisted Frontend:** Leveraging AI generation tools to rapidly write responsive, custom Vanilla CSS variables and layout engines.
+
+🛠️ My Development Setup
+* **Operating System:** Linux (navigating the terminal CLI and writing custom shell scripts 🐧)
+* **Design Philosophy:** Vanilla-first (understanding the DOM and native protocols before importing npm packages 🌐)
+* **AI Tooling:** Prompt engineering for rapid UI prototyping, fluid theme-switchers, and custom styled-components 🤖
+* **Core Languages & Stack:** C++, JavaScript (ES6+), SQL, Python, Node.js, MongoDB, Hadoop, Hive, and React.
+
+🎯 Current Focus
+* Advanced distributed data profiling and pipeline optimization using Big Data ecosystems.
+* Mastering the synergy between prompt engineering and native CSS variables to design instant, zero-dependency layouts.
+* Sharing core system logic and debugging mentalities with next-generation developer networks.
+
+🎉 A Few Fun Facts
+* 👨‍🏫 I have directly trained and debugged complex logic errors for 100+ students in C++ pointer structures.
+* ⚡ I prefer native async DOM manipulation and vanilla API fetching over installing bloated external libraries.
+* 🔬 I used Hadoop, Hive, and Weka to analyze multi-domain datasets (Weather, Diabetes, Sales) for my graduate research.
+* ☕ I believe knowing *why* an engineering tool exists is far more important than just knowing how to type its commands.
+
+📬 Let's Build Something Together
+* 📧 **Email:** [gauravkaushik1999gko@gmail.com](mailto:gauravkaushik1999gko@gmail.com)
+* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* 🐙 **GitHub:** [://github.com](https://://github.com)
+* 🌳 **Linktree:** [linktr.ee/gauravKSharma](https://linktr.ee/gauravKSharma)
+
+*📍 Rohtak, Haryana, India — Open to remote and on-site software engineering engagements.*
