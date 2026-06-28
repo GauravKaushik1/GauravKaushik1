@@ -43,8 +43,9 @@ I focus on core logic to keep systems fast, clean, and lightweight. I prioritize
 🎉 A Few Fun Facts
 * 👨‍🏫 I have directly trained and debugged complex logic errors for 100+ students in C++ pointer structures.
 * ⚡ I prefer native async DOM manipulation and vanilla API fetching over installing bloated external libraries.
-* 🔬 I used Hadoop, Hive, and Weka to analyze multi-domain datasets (Weather, Diabetes, Sales) for my graduate research.
+* 🔬 I used Hadoop, Hive, and Weka to analyze multi-domain datasets (Weather, Diabetes, Sales) for my post-graduate study applications.
 * ☕ I believe knowing *why* an engineering tool exists is far more important than just knowing how to type its commands.
+* 💪 Fitness is a non-negotiable part of my day.
 
 📬 Let's Build Something Together
 * 📧 **Email:** [gauravkaushik1999gko@gmail.com](mailto:gauravkaushik1999gko@gmail.com)
