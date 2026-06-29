@@ -41,7 +41,7 @@ I focus on core logic to keep systems fast, clean, and lightweight. I prioritize
 * Sharing core system logic and debugging mentalities with next-generation developer networks.
 
 🎉 A Few Fun Facts
-* 👨‍🏫 I have directly trained and debugged complex logic errors for 100+ students in C++ pointer structures.
+* 👨‍🏫 I have directly trained and debugged complex logic errors for 100+ students.
 * ⚡ I prefer native async DOM manipulation and vanilla API fetching over installing bloated external libraries.
 * 🔬 I used Hadoop, Hive, and Weka to analyze multi-domain datasets (Weather, Diabetes, Sales) for my post-graduate study applications.
 * ☕ I believe knowing *why* an engineering tool exists is far more important than just knowing how to type its commands.
