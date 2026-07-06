@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 I'm a passionate Software & Web Developer specializing in architecting full-stack applications, designing systems driven by logic first, and managing high-scale system environments. My tech journey transitioned from a background in Commerce (B.Com) to mastering computer systems with an MCA from M.D. University, Rohtak.
 
 ### Mastering Full-Stack Systems & High-Performance Logic
@@ -21,7 +22,6 @@ I'm a passionate Software & Web Developer specializing in architecting full-stac
 High-performance software isn’t just built; it’s engineered with a deep understanding of what happens under the hood.
 I focus on core logic to keep systems fast, clean, and lightweight. I prioritize framework-independent logic when raw performance is critical, utilizing modern development frameworks strategically only when they explicitly improve security, speed, or scale. Additionally, I employ generative AI workflows to rapidly prototype, optimize, and accelerate my custom frontend UI  as well as backend rendering.
 
----
 🚀 What Drives Me
 * **Systems & Logic:** Managing raw pointers, custom memory, and database normalization (3NF) from first principles.
 * **Vanilla Full-Stack:** Engineering secure web backends with Node.js and Express without relying on heavy boilerplate frameworks.
