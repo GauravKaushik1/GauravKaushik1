@@ -29,7 +29,7 @@ I focus on core logic to keep systems fast, clean, and lightweight. I prioritize
 * **AI-Assisted Frontend:** Leveraging AI generation tools to rapidly write responsive, custom Vanilla CSS variables and layout engines.
 
 🛠️ My Development Setup
-* **Operating System:** Linux (navigating the terminal CLI and writing custom shell scripts 🐧)
+* **Operating System:** Windows 11 host running Linux inside a virtual machine via Oracle VirtualBox, Linux (navigating the terminal CLI and writing custom shell scripts 🐧)
 * **Design Philosophy:** Vanilla-first (understanding the DOM and native protocols before importing npm packages 🌐)
 * **AI Tooling:** Prompt engineering for rapid UI prototyping, fluid theme-switchers, and custom styled-components 🤖
 * **Core Languages & Stack:** C++, JavaScript (ES6+), SQL, Python, Node.js, MongoDB, Hadoop, Hive, and React.
