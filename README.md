@@ -1,4 +1,4 @@
-## Hi, I'm Gaurav Kaushik 👋![gaurav image avatar](https://avatars.githubusercontent.com/u/118422629?v=4)
+## Hi, I'm Gaurav Kaushik 👋<p align="right"><img src="https://avatars.githubusercontent.com/u/118422629?v=4" alt="gaurav avatar"></p>
 
 <!--
 **GauravKaushik1/GauravKaushik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
