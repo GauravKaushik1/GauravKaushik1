@@ -1,4 +1,4 @@
-## 👋Hi, I'm Gaurav Kaushik <img src="https://github.com/GauravKaushik1/GauravKaushik1/blob/main/Pi7_Tool_Pi7_Tool_image_314ddab4.jpg?raw=true" alt="gaurav avatar" width=150 style="display:inline;text-align:right;">
+## 👋Hi, I'm Gaurav Kaushik 
 
 <!--
 **GauravKaushik1/GauravKaushik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a passionate Software & Web Developer specializing in architecting full-stack applications, designing systems driven by logic first, and managing high-scale system environments. My tech journey transitioned from a background in Commerce (B.Com) to mastering computer systems with an MCA from M.D. University, Rohtak.
+I'm a passionate Software & Web Developer specializing in architecting full-stack applications, designing systems driven by logic first, and managing high-scale system environments. My tech journey transitioned from a background in Commerce (B.Com) to mastering computer systems with an MCA from M.D. University, Rohtak.<img src="https://github.com/GauravKaushik1/GauravKaushik1/blob/main/Pi7_Tool_Pi7_Tool_image_314ddab4.jpg?raw=true" alt="gaurav avatar" width=150 style="display:inline;">
 
 ### Mastering Full-Stack Systems & High-Performance Logic
 
