@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
+
 I'm a passionate Software & Web Developer specializing in architecting full-stack applications, designing systems driven by logic first, and managing high-scale system environments. My tech journey transitioned from a background in Commerce (B.Com) to mastering computer systems with an MCA from M.D. University, Rohtak.
 
 ### Mastering Full-Stack Systems & High-Performance Logic
