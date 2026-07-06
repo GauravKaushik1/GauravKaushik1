@@ -1,4 +1,4 @@
-## Hi, I'm Gaurav Kaushik 👋<p align="right"><img src="https://github.com/GauravKaushik1/GauravKaushik1/blob/main/Pi7_Tool_Pi7_Tool_image_314ddab4.jpg?raw=true" alt="gaurav avatar" width=150></p>
+## Hi, I'm Gaurav Kaushik 👋<p align="right"><img src="https://github.com/GauravKaushik1/GauravKaushik1/blob/main/Pi7_Tool_Pi7_Tool_image_314ddab4.jpg?raw=true" alt="gaurav avatar" width=150 style="display:inline-block"></p>
 
 <!--
 **GauravKaushik1/GauravKaushik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
