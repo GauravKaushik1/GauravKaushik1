@@ -156,6 +156,10 @@ git remote add [alias] [url]
 ```bash
 git remote add origin [url]
 ```
+####check added git URL-to verify remote
+```bash
+git remote -v
+```
 ### fetch down all the branches from that Git remote
 ```bash
 git fetch [alias]
@@ -168,13 +172,19 @@ git merge [alias]/[branch]
 git push [alias] [branch]
 #### using git push alone-setting up default push branch
 ```bash
-git push -u origin [branch-name]
+git push origin [branch-name]
+```
+```bash
+git push origin main
 ```
 ```bash
 git push -u origin main
 git push
 ```
 ### fetch and merge any commits from the tracking remote branch
+```bash
+git pull origin main
+```
 ```bash
 git pull
 ```
@@ -186,6 +196,25 @@ git rebase [branch]
 ### clear staging area, rewrite working tree from specified commit
 ```bash
 git reset --hard [commit]
+```
+### revert back most recent commit
+```bash
+git reset Head~1
+```
+### revert back history to many commits<br>
+to get hash of commit to revert
+```bash
+git log
+```
+```bash
+git reset [commit-hash]
+```
+```bash
+git reset --hard [commit-hash]
+```
+### revert changes for one file only
+```bash
+git reset [filename]
 ```
 ## TEMPORARY COMMITS-Temporarily store modified, tracked files in order to change branches
 ### Save modified and staged changes
