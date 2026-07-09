@@ -1,4 +1,4 @@
-#Git Commands
+#Git Commands<br>
 ##Setup Git - Configuring user information used across all local repositories
 ###To check if git is properly installed
 git --version
