@@ -52,4 +52,4 @@ I focus on core logic to keep systems fast, clean, and lightweight. I prioritize
 * 🐙 **GitHub:** [https://github.com/GauravKaushik1](https://github.com/GauravKaushik1)
 * 🌳 **Linktree:** [https://linktr.ee/gauravKSharma](https://linktr.ee/gauravKSharma)
 
-*📍 Rohtak, Haryana, India — Open to remote and on-site software engineering engagements.*
+*📍 Meham, Rohtak, Haryana, India — Open to remote and on-site software engineering engagements.*
