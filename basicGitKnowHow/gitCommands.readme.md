@@ -83,7 +83,7 @@ git commit -m "[some message]"
 git branch
 ```
 ### rename branch
-git branch -M [branch-new-name]
+git branch -M [branch-new-name]<br>
 git branch -M feature1
 #### rename branch as main (in legacy git installation branch name used to be master but now it is not prevalent so git branch main is to be used everywhere)
 ```bash
