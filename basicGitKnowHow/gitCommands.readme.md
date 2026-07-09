@@ -5,114 +5,198 @@
 git --version
 ```
 ### set a name ( Usually github profile name ) that is identifiable for credit when review version history
-```bash
 git config --global user.name "[firstname lastname]"
+```bash
 git config --global user.name "GauravKaushik1"
 ```
 ### set a valid email address(your github linked email) that will be associated with each history marker
 git config --global user.email "[valid-email@gmail.com]"
-git config --global user.email "gauravkaushik1999gko@gmail.com
+```bash
+git config --global user.email "gauravkaushik1999gko@gmail.com"
+```
 ### see global config
+```bash
 git config --global --list
+```
 ## Setup and INIT - Configuring user information, initializing and cloning repositories
 ### initialize an existing directory as a Git repository
+```bash
 git init
+```
 #### add a git url to origin
+```bash
 git remote add origin [url]
+```
 ### retrieve an entire repository from a hosted location via URL
+```bash
 git clone [url]
+```
 ## git bash commands list directory
 ### list files (except hidden files)
+```bash
 ls
+```
 ### list all files including hidden files
+```bash
 ls -a
+```
 ## STAGE & SNAPSHOT - Working with snapshots and the Git staging area
 ### show modified files in working directory, staged for your next commit
+```bash
 git status
+```
 ### add a file as it looks now to your next commit (stage)
+```bash
 git add [file]
+```
 ### add all files as it all looks now to your next commit (stage)
+```bash
 git add .
+```
 ### unstage a file while retaining the changes in working directory
+```bash
 git reset [file]
+```
 ### unstage all files while retaining the changes in working directory
+```bash
 git reset
+```
 ### diff of what is changed but not staged
+```bash
 git diff
+```
 ### diff of what is staged but not yet committed
+```bash
 git diff --staged
+```
 ### commit your staged content as a new commit snapshot
+```bash
 git commit -m "[some message]"
+```
 ## BRANCH & MERGE-Isolating work in branches, changing context, and integrating changes
 ### list your branches. a * will appear next to the currently active branch
+```bash
 git branch
+```
 ### rename branch
 git branch -M [branch-new-name]
 git branch -M feature1
 #### rename branch as main (in legacy git installation branch name used to be master but now it is not prevalent so git branch main is to be used everywhere)
+```bash
 git branch -M main
+```
 ### create a new branch at the current commit
+```bash
 git branch [new-branch-name]
+```
 #### create a new branch and switch to it
+```bash
 git checkout -b [new-branch-name]
+```
 ### switch to another branch and check it out into your working directory
+```bash
 git checkout [branch-name]
+```
 ### delete specific branch
 git branch -d [branch-name]
 ### merge the specified branch’s history into the current one
+```bash
 git merge [branch]
+```
 ## INSPECT & COMPARE-Examining logs, diffs and object information
 ### show all commits in the currently active branch’s history
+```bash
 git log
+```
 ### show the commits on branchA that are not on branchB
+```bash
 git log branchB..branchA
+```
 ### show the diff of what is in branchA that is not in branchB
+```bash
 git diff branchB...branchA
+```
 ### show the commits that changed file, even across renames
+```bash
 git log --follow [file]
+```
 ### show any object in Git in human-readable format
+```bash
 git show [SHA]
+```
 ## TRACKING PATH CHANGES - Versioning file removes and path changes
 ### delete the file from project and stage the removal for commit
+```bash
 git rm [file]
+```
 ### change an existing file path and stage the move
+```bash
 git mv [existing-path] [new-path]
+```
 ### show all commit logs with indication of any paths that moved
+```bash
 git log --stat -M
+```
 ## IGNORING PATTERNS - Preventing unintentional staging or commiting of files
 logs/
 *.notes
 pattern*/
 ### Save a file with desired patterns as .gitignore with either direct string matches or wildcard globs.
 ### system wide ignore pattern for all local repositories
+```bash
 git config --global core.excludesfile [file]
+```
 ## SHARE & UPDATE-Retrieving updates from another repository and updating local repos
 ### add a git URL as an alias
 git remote add [alias] [url]
+```bash
 git remote add origin [url]
+```
 ### fetch down all the branches from that Git remote
+```bash
 git fetch [alias]
+```
 ### merge a remote branch into your current branch to bring it up to date
+```bash
 git merge [alias]/[branch]
+```
 ### Transmit local branch commits to the remote repository branch
 git push [alias] [branch]
 #### using git push alone-setting up default push branch
+```bash
 git push -u origin [branch-name]
+```
+```bash
 git push -u origin main
 git push
+```
 ### fetch and merge any commits from the tracking remote branch
+```bash
 git pull
+```
 ## REWRITE HISTORY-Rewriting branches, updating commits and clearing history
 ### apply any commits of current branch ahead of specified one
+```bash
 git rebase [branch]
+```
 ### clear staging area, rewrite working tree from specified commit
+```bash
 git reset --hard [commit]
+```
 ## TEMPORARY COMMITS-Temporarily store modified, tracked files in order to change branches
 ### Save modified and staged changes
+```bash
 git stash
+```
 ### list stack-order of stashed file changes
+```bash
 git stash list
+```
 ### write working from top of stash stack
+```bash
 git stash pop
+```
 ### discard the changes from top of stash stack
+```bash
 git stash drop
+```
