@@ -1,4 +1,4 @@
-#Git Commands<br>
+#Git Commands
 ##Setup Git - Configuring user information used across all local repositories
 ###To check if git is properly installed
 git --version
@@ -82,15 +82,33 @@ pattern*/
 ###Save a file with desired patterns as .gitignore with either direct string matches or wildcard globs.
 ###system wide ignore pattern for all local repositories
 git config --global core.excludesfile [file]
-SHARE & UPDATE
-Retrieving updates from another repository and updating local repos
+##SHARE & UPDATE-Retrieving updates from another repository and updating local repos
+###add a git URL as an alias
 git remote add [alias] [url]
-add a git URL as an alias
+git remote add origin [url]
+###fetch down all the branches from that Git remote
 git fetch [alias]
-fetch down all the branches from that Git remote
+###merge a remote branch into your current branch to bring it up to date
 git merge [alias]/[branch]
-merge a remote branch into your current branch to bring it up to date
+###Transmit local branch commits to the remote repository branch
 git push [alias] [branch]
-Transmit local branch commits to the remote repository branch
+####using git push alone-setting up default push branch
+git push -u origin [branch-name]
+git push -u origin main
+git push
+###fetch and merge any commits from the tracking remote branch
 git pull
-fetch and merge any commits from the tracking remote branch
+##REWRITE HISTORY-Rewriting branches, updating commits and clearing history
+###apply any commits of current branch ahead of specified one
+git rebase [branch]
+###clear staging area, rewrite working tree from specified commit
+git reset --hard [commit]
+##TEMPORARY COMMITS-Temporarily store modified, tracked files in order to change branches
+###Save modified and staged changes
+git stash
+###list stack-order of stashed file changes
+git stash list
+###write working from top of stash stack
+git stash pop
+###discard the changes from top of stash stack
+git stash drop
