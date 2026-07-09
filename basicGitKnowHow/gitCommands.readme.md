@@ -5,12 +5,16 @@
 git --version
 ```
 ### set a name ( Usually github profile name ) that is identifiable for credit when review version history
+```bash
 git config --global user.name "[firstname lastname]"
+```
 ```bash
 git config --global user.name "GauravKaushik1"
 ```
 ### set a valid email address(your github linked email) that will be associated with each history marker
+```bash
 git config --global user.email "[valid-email@gmail.com]"
+```
 ```bash
 git config --global user.email "gauravkaushik1999gko@gmail.com"
 ```
