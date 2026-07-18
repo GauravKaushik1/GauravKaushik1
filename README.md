@@ -49,7 +49,6 @@ I focus on core logic to keep systems fast, clean, and lightweight. I prioritize
 📬 Let's Build Something Together
 * 📧 **Email:** [gauravkaushik1999gko@gmail.com](mailto:gauravkaushik1999gko@gmail.com)
 * 💼 **LinkedIn:** [https://linkedin.com/in/gaurav-kaushik-413a9223a](https://linkedin.com/in/gaurav-kaushik-413a9223a?action=follow)
-* 🐙 **GitHub:** [https://github.com/GauravKaushik1](https://github.com/GauravKaushik1)
 * 🌳 **Linktree:** [https://linktr.ee/gauravKSharma](https://linktr.ee/gauravKSharma)
 
 *📍 Meham, Rohtak, Haryana, India — Open to remote and on-site software engineering engagements.*
